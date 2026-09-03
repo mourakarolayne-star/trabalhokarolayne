@@ -4,7 +4,16 @@
   {
 
 .cabecalho{
+padding:15px 25px
+ {
 
-  {
+ .cartao{
+ width:260px;
+ height: 260px;
+  }
 
-  padding:15px 25px
+ .cartao-frente,cartao-verso{
+     width: 100%;
+ }
+ 
+ 
