@@ -7,6 +7,7 @@
 padding:15px 25px
  display:flex;
  justify-content:space-betwenn;
+ aling-intems:center
  {
 
  .cartao{
@@ -17,5 +18,14 @@ padding:15px 25px
  .cartao-frente,cartao-verso{
      width: 100%;
  }
+
+ body{
+display:flex;
+ flex-direction:column;
+  min-height:100vh;
+ }
+
+ main{
+    flex:1;
  
  
