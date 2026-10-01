@@ -39,10 +39,16 @@ h1 {
 }
 
 footer{
- background-color=pink;
+ background-color:pink;
  {
-  padding=15px,25px;
-  display=flex;
-  justify-content=space-betweem;
-   align-items=center;
- 
+  padding:15px,25px;
+  display:flex;
+  justify-content:space-betweem;
+   align-items:center;
+ background-color:blue;
+ {
+
+ body{
+  display:flex;
+  flex-direction:column;
+  min-height:100vh;
